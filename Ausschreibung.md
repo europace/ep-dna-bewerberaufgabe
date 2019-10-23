@@ -47,7 +47,7 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - Python und/oder Java
 - SQL- und NoSql-Datenbanken
 - gängigen Entwicklungsumgebungen
-- Programmierstandards (Testing, Formatting, github workflows)
+- Programmierstandards (Testing, Formatting, Github Workflows)
 
 
 ## Was dich bei uns erwartet  
