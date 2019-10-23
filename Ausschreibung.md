@@ -3,8 +3,8 @@
 **Unternehmen:** EUROPACE **Standort:** Berlin
 
 Du kannst gut mit großen Datenmengen?  
-Du hast Interesse an modernen Cloud-Technologien? 
-Du möchtest, dass immer die aktuellesten Daten zur Verfügung stehen um informierte Entscheidungen zu treffen? 
+Du hast Interesse an modernen Cloud-Technologien?  
+Du möchtest, dass immer die aktuellsten Daten zur Verfügung stehen um informierte Entscheidungen zu treffen? 
 Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 
 ## Wie sehen deine Aufgaben bei uns aus?
