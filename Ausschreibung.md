@@ -15,7 +15,7 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - Monitoring und Alerting mit CloudWatch
 
 **Technisches Self-Service-Enablement von firmeninternen Datenproduzenten und Konsumenten**
-- Hands-On-Support bei der Unterstützung von anderen Units bei der Einbindung neuer Datenquellen oder Analytics-Tools
+- Hands-On-Support bei der Unterstützung von anderen Units bei der Einbindung neuer Datenquellen oder Analytics-Tools wie Qlik-Sense
 
 **Support bei der robusten und nachhaltigen Produktivstellung von komplexen Machine-Learning Applikationen**
 - Unterstützung unsere Machine Learning Engineers und Data Scientists bei der Erstellung robuster Trainings-Pipelines
