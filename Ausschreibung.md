@@ -62,19 +62,19 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - Arbeitszeit, Ort und Urlaub sind im Team flexibel  
 - ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen
 
-**Selbstorganisation:** 
-- wir organisieren uns holokratisch und bringen Denken und Handeln zusammen  
-
 **Agile:** 
 - wir realisieren unsere Anforderungen im Kanban-Prozess mit Standups, Priomeetings und Projektboards  
 
 **Persönliches Weiterentwicklung:** 
 - ... ist bei uns Voraussetzung die wir entsprechend unterstützen und kein Benefit  
 
+**Holakratische Selbstorganisation** 
+- als Unternehmen organisieren wir uns holakratisch und bringen Denken und Handeln zusammen
+
 **Innersource-Prinzipien:**
-- wir organisieren unsere Arbeit kollaborativ, offen und transparent
+- unseren Softwareentwicklungsprozess gestalten wir kollaborativ, offen und transparent
 - Fehler sind eine natürliche Eigenschaft von Entwicklungsprozessen
-- als wichtigstes Werkzeug nutzen wir die Features von github (Issues, PRs, Komments, Branching, Doku)  
+- als wichtigstes Werkzeug nutzen wir die Features von Github (Issues, PRs, Komments, Branching, Doku)
 
 **Respekt:** 
 - gegenseitiger Respekt und Wertschätzung sowie ein hohes Maß an sozialer Kompetenz  
