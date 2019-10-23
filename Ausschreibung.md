@@ -50,29 +50,29 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - Programmierstandards (Testing, Formatting, github workflows)
 
 
-## Was dich bei uns erwartet  
+## Was dich bei uns erwartet
 
 **Freiraum:** 
 - Raum zum Gestalten und Wirken, technisch, fachlich oder auch organisatorisch  
-**Cross-Funktionale Teamarbeit:** 
+**Cross-Funktionale Teamarbeit:**  
 - Engineers, Domain Experts und Data Scientists erarbeiten gemeinsam Lösungen  
-**Flexibilität:** 
+**Flexibilität:**  
 - Arbeitszeit, Ort, Urlaub sind im Team flexibel
-**Selbstorganisation:** 
+**Selbstorganisation:**  
 - wir organisieren uns holokratisch und bringen Denken und Handeln zusammen  
-**Agile:** 
+**Agile:**  
 - wir realisieren unsere Anforderungen im Kanban-Prozess mit Standups, Priomeetings und Projektboards    
-**Persönliches Weiterentwicklung:** 
+**Persönliches Weiterentwicklung:**  
 - ... ist bei uns Voraussetzung die wir entsprechend unterstützen und kein Benefit
-**Innersource-Prinzipien:**
+**Innersource-Prinzipien:** . 
 - wir organisieren unsere Arbeit kollaborativ, offen und transparent
 - Fehler sind eine natürliche Eigenschaft von Entwicklungsprozessen
 - als wichtigstes Werkzeug nutzen wir die Features von github (Issues, PRs, Komments, Branching, Doku)
-**Respekt:** 
+**Respekt:**  
 - gegenseitiger Respekt und Wertschätzung und ein hohes Maß an sozialer Kompetenz
-**Familienfreundlichkeit:** 
+**Familienfreundlichkeit:**  
 - ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen  
-**Tech-Stack:** 
+**Tech-Stack:**  
 - wir sind flexibel in der Auswahl unserer Tools und Techniken
 - hier ein Auszug
   - AWS Cloud Development Kit
@@ -93,6 +93,5 @@ Wir sind Deutschlands größter Finanzmarktplatz für Immobilienfinanzierungen, 
 **B2B2C:**  
 Wir sind B2B und denken B2C. Wir bringen Banken und Vertriebe zusammen, um für den Verbraucher den einfachsten Zugang zu den besten Finanzierungen zu schaffen.
 
-
-## Und jetzt?
+## Und jetzt?  
 Wenn wir dein Interesse geweckt haben, dann freuen wir uns auf deine aussagekräftige Bewerbung. Bitte mit Gehaltsvorstellung und möglichem Starttermin.  
