@@ -10,12 +10,12 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 ## Wie sehen deine Aufgaben bei uns aus?
 
 **Wartung und Weiterentwicklung bestehender ETL-Strecken in der AWS-Cloud**
-- techische Weiterentwicklung bestehender Architekturen bestehende aus Serverless Lambdas, AWS Batch, AWS Glue, AWS Athena und AWS Redshift
+- techische Weiterentwicklung bestehender Architekturen mit Serverless Lambdas, AWS Batch, AWS Glue, AWS Athena und AWS Redshift
+- Sicherstellung der Datenqualität
 - Monitoring und Alerting mit CloudWatch
 
 **Technisches Self-Service-Enablement von firmeninternen Datenproduzenten und Konsumenten**
 - Hands-On-Support bei der Unterstützung von anderen Units bei der Einbindung neuer Datenquellen oder Analytics-Tools
-
 
 **Support bei der robusten und nachhaltigen Produktivstellung von komplexen Machine-Learning Applikationen**
 - Unterstützung unsere Machine Learning Engineers und Data Scientists bei der Erstellung robuster Trainings-Pipelines
