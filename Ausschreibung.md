@@ -76,7 +76,7 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - als wichtigstes Werkzeug nutzen wir die Features von github (Issues, PRs, Komments, Branching, Doku)  
 
 **Respekt:** 
-- gegenseitiger Respekt und Wertschätzung und ein hohes Maß an sozialer Kompetenz  
+- gegenseitiger Respekt und Wertschätzung sowie ein hohes Maß an sozialer Kompetenz  
 
 **Familienfreundlichkeit:** 
 - ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen  
