@@ -24,33 +24,33 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 
 ## Was wir von dir erwarten
 
-**Faulheit ;):** 
+**Faulheit ;):**  
 - du willst nicht mehrmals das gleiche tun und liebst Automatisierung
 
-**Best and Worst Practices:**
+**Best and Worst Practices:**  
 - du hast schon einiges erlebt und bringst deine Expertise und Erfahrung mit AWS mit ins Team
 
-**Pragmatismus:** 
+**Pragmatismus:**  
 - du strebst nach einfachen und übersichtlichen Lösungen 
 - du hinterfragst, ob Dinge zielführend sind, ohne das Ziel aus den Augen zu verlieren  
 - dabei helfen dir deine bereits gesammelten beruflichen Erfahrungen und dein Interesse an Automatisierung  
 
-**Kommunikationsstarker Teamplayer:** 
+**Kommunikationsstarker Teamplayer:**  
 - du bist mit Herz und Seele Teamplayer
-- du formulierst klar und verständlich, bist zudem offen und durchsetzungsstark. 
+- du formulierst klar und verständlich, bist zudem offen und durchsetzungsstark
 
-**Interesse:** 
+**Interesse:**  
 - dein Interesse hilft dir mit deiner schnellen Auffassungsgabe, rasch neue Themen zu adaptieren 
-- du engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen.
+- du engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen
 
-**2-Jahre+ Praxis-Erfahrung mit:**
+**2-Jahre+ Praxis-Erfahrung mit:**  
 - Python und/oder Java
 - SQL- und NoSql-Datenbanken
 - gängigen Entwicklungsumgebungen
 - Programmierstandards (Testing, Formatting, github workflows)
 
 
-## Was dich bei uns erwartet
+## Was dich bei uns erwartet  
 
 **Freiraum:** 
 - Raum zum Gestalten und Wirken, technisch, fachlich oder auch organisatorisch  
