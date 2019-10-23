@@ -24,33 +24,45 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 
 ## Was wir von dir erwarten
 
-Was erwarten wir von dir?
-Faulheit ;): Du willst nicht mehrmals das gleiche tun und liebst Automatisierung.
+**Faulheit ;):** 
+- du willst nicht mehrmals das gleiche tun und liebst Automatisierung
 
-Best and Worst Practices: Du hast schon einiges erlebt und bringst deine Expertise und Erfahrung mit AWS mit ins Team.
+**Best and Worst Practices:**
+- du hast schon einiges erlebt und bringst deine Expertise und Erfahrung mit AWS mit ins Team
 
-Einfachheit: Du strebst nach einfachen und übersichtlichen Lösungen. Dabei helfen dir deine bereits gesammelten beruflichen Erfahrungen und dein Interesse an Automatisierung.  
+**Einfachheit:** 
+- du strebst nach einfachen und übersichtlichen Lösungen 
+- dabei helfen dir deine bereits gesammelten beruflichen Erfahrungen und dein Interesse an Automatisierung.  
 
-Überblick: Dir fällt es leicht einen Schritt zurück zu machen und zu hinterfragen, ob Dinge zielführend sind, ohne das Ziel aus den Augen zu verlieren.
+**Überblick:** 
+- du hinterfragst, ob Dinge zielführend sind, ohne das Ziel aus den Augen zu verlieren
 
-Kommunikationsstarker Teamplayer: Du bist mit Herz und Seele Teamplayer. Du formulierst klar und verständlich, bist zudem offen und durchsetzungsstark. 
+**Kommunikationsstarker Teamplayer:** 
+- du bist mit Herz und Seele Teamplayer
+- du formulierst klar und verständlich, bist zudem offen und durchsetzungsstark. 
 
-Interesse: Dein Interesse hilft dir mit deiner schnellen Auffassungsgabe, rasch neue Themen zu adaptieren. Außerdem engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen.
+**Interesse:** 
+- dein Interesse hilft dir mit deiner schnellen Auffassungsgabe, rasch neue Themen zu adaptieren 
+- du engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen.
 
 
 ## Was dich bei uns erwartet
 
-**Freiraum:** Raum zum Gestalten und Wirken. Technisch, fachlich oder auch organisatorisch  
-**Cross-Funktionale Teamarbeit:** Engineers, Domain Experts und Data Scientists erarbeiten gemeinsam Lösungen  
-**Flexibilität:** Arbeitszeit, Ort, Urlaub sind im Team flexibel.   
+**Freiraum:** 
+- Raum zum Gestalten und Wirken, technisch, fachlich oder auch organisatorisch  
+**Cross-Funktionale Teamarbeit:** 
+- Engineers, Domain Experts und Data Scientists erarbeiten gemeinsam Lösungen  
+**Flexibilität:** 
+- Arbeitszeit, Ort, Urlaub sind im Team flexibel
 **Selbstorganisation:** Wir organisieren uns holokratisch und bringen Denken und Handeln zusammen.  
 **Agile:** Wir realisieren unsere Anforderungen im Kanban-Prozess mit tgl. Standups und Projektboards.   
 **Persönliches Weiterentwicklung:** ... ist bei uns Voraussetzung die wir entsprechend unterstützen und kein Benefit.  
 **Respekt:** Gegenseitiger Respekt und Wertschätzung und ein hohes Maß an sozialer Kompetenz.  
-**Familienfreundlichkeit:** Ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen.  
+**Familienfreundlichkeit:** Ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen. 
+**Tech-Stack:** Wir sind flexibel in der Auswahl unserer Tools und Techniken. Hier ein Auszug: AWS Cloud Development Kit, GitHub Workflows, Splunk, Docker, Serverless und AWS Glue.
 
 ## Was tun wir?
-- *Hidden Champion*: Die Europace AG ist ein Tochterunternehmen der Hypoport Gruppe. Wir sind seit über zehn Jahren erfolgreich und haben den Finanzierungsmarkt revolutioniert. Mit unseren Transaktionsvolumen von über 4 Mrd. Euro im Monat und einem Wachstum, das deutlich über dem Markt liegt, schreiben wir gerne mit dir unsere Erfolgsstory fort.
+**Hidden Champion*: Die Europace AG ist ein Tochterunternehmen der Hypoport Gruppe. Wir sind seit über zehn Jahren erfolgreich und haben den Finanzierungsmarkt revolutioniert. Mit unseren Transaktionsvolumen von über 4 Mrd. Euro im Monat und einem Wachstum, das deutlich über dem Markt liegt, schreiben wir gerne mit dir unsere Erfolgsstory fort.
 - *FinTech*: Wir sind Deutschlands größter Finanzmarktplatz für Immobilienfinanzierungen, Bausparprodukte und Privatkredite. Wir gestalten und bewegen Märkte und befinden uns auf einer stetigen Mission für den Verbraucher.
 - *B2B2C*: Wir sind B2B und denken B2C. Wir bringen Banken und Vertriebe zusammen, um für den Verbraucher den einfachsten Zugang zu den besten Finanzierungen zu schaffen.
 ## Die Basis unserer Datenprodukte ist ...
