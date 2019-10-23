@@ -60,7 +60,7 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 
 **Flexibilität:** 
 **Flexibilität und Familienfreundlichkeit:**
-- Arbeitszeit, Ort, Urlaub sind im Team flexibel  
+- Arbeitszeit, Ort und Urlaub sind im Team flexibel  
 - ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen
 
 **Selbstorganisation:** 
