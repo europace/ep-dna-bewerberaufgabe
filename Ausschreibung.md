@@ -30,12 +30,10 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 **Best and Worst Practices:**
 - du hast schon einiges erlebt und bringst deine Expertise und Erfahrung mit AWS mit ins Team
 
-**Einfachheit:** 
+**Pragmatismus:** 
 - du strebst nach einfachen und übersichtlichen Lösungen 
-- dabei helfen dir deine bereits gesammelten beruflichen Erfahrungen und dein Interesse an Automatisierung.  
-
-**Überblick:** 
-- du hinterfragst, ob Dinge zielführend sind, ohne das Ziel aus den Augen zu verlieren
+- du hinterfragst, ob Dinge zielführend sind, ohne das Ziel aus den Augen zu verlieren  
+- dabei helfen dir deine bereits gesammelten beruflichen Erfahrungen und dein Interesse an Automatisierung  
 
 **Kommunikationsstarker Teamplayer:** 
 - du bist mit Herz und Seele Teamplayer
@@ -44,6 +42,12 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 **Interesse:** 
 - dein Interesse hilft dir mit deiner schnellen Auffassungsgabe, rasch neue Themen zu adaptieren 
 - du engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen.
+
+**2-Jahre+ Praxis-Erfahrung mit:**
+- Python und/oder Java
+- SQL- und NoSql-Datenbanken
+- gängigen Entwicklungsumgebungen
+- Programmierstandards (Testing, Formatting, github workflows)
 
 
 ## Was dich bei uns erwartet
@@ -54,19 +58,41 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - Engineers, Domain Experts und Data Scientists erarbeiten gemeinsam Lösungen  
 **Flexibilität:** 
 - Arbeitszeit, Ort, Urlaub sind im Team flexibel
-**Selbstorganisation:** Wir organisieren uns holokratisch und bringen Denken und Handeln zusammen.  
-**Agile:** Wir realisieren unsere Anforderungen im Kanban-Prozess mit tgl. Standups und Projektboards.   
-**Persönliches Weiterentwicklung:** ... ist bei uns Voraussetzung die wir entsprechend unterstützen und kein Benefit.  
-**Respekt:** Gegenseitiger Respekt und Wertschätzung und ein hohes Maß an sozialer Kompetenz.  
-**Familienfreundlichkeit:** Ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen. 
-**Tech-Stack:** Wir sind flexibel in der Auswahl unserer Tools und Techniken. Hier ein Auszug: AWS Cloud Development Kit, GitHub Workflows, Splunk, Docker, Serverless und AWS Glue.
+**Selbstorganisation:** 
+- wir organisieren uns holokratisch und bringen Denken und Handeln zusammen  
+**Agile:** 
+- wir realisieren unsere Anforderungen im Kanban-Prozess mit Standups, Priomeetings und Projektboards    
+**Persönliches Weiterentwicklung:** 
+- ... ist bei uns Voraussetzung die wir entsprechend unterstützen und kein Benefit
+**Innersource-Prinzipien:**
+- wir organisieren unsere Arbeit kollaborativ, offen und transparent
+- Fehler sind eine natürliche Eigenschaft von Entwicklungsprozessen
+- als wichtigstes Werkzeug nutzen wir die Features von github (Issues, PRs, Komments, Branching, Doku)
+**Respekt:** 
+- gegenseitiger Respekt und Wertschätzung und ein hohes Maß an sozialer Kompetenz
+**Familienfreundlichkeit:** 
+- ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen  
+**Tech-Stack:** 
+- wir sind flexibel in der Auswahl unserer Tools und Techniken
+- hier ein Auszug
+  - AWS Cloud Development Kit
+  - GitHub
+  - Splunk
+  - Docker
+  - Serverless 
+  - AWS Glue 
+  - Qlik-Sense
 
 ## Was tun wir?
-**Hidden Champion*: Die Europace AG ist ein Tochterunternehmen der Hypoport Gruppe. Wir sind seit über zehn Jahren erfolgreich und haben den Finanzierungsmarkt revolutioniert. Mit unseren Transaktionsvolumen von über 4 Mrd. Euro im Monat und einem Wachstum, das deutlich über dem Markt liegt, schreiben wir gerne mit dir unsere Erfolgsstory fort.
-- *FinTech*: Wir sind Deutschlands größter Finanzmarktplatz für Immobilienfinanzierungen, Bausparprodukte und Privatkredite. Wir gestalten und bewegen Märkte und befinden uns auf einer stetigen Mission für den Verbraucher.
-- *B2B2C*: Wir sind B2B und denken B2C. Wir bringen Banken und Vertriebe zusammen, um für den Verbraucher den einfachsten Zugang zu den besten Finanzierungen zu schaffen.
-## Die Basis unserer Datenprodukte ist ...
-Python, AWS Services, Spark, Serverless, Redshift, Docker, SQL, Java, Scala, JetBrains TeamCity, NoSql, DevOps
-## Und jetzt?
-Wenn du dich angesprochen fühlst, freuen wir uns, dich kennen zu lernen
+**Hidden Champion:**  
+Die Europace AG ist ein Tochterunternehmen der Hypoport Gruppe. Wir sind seit über zehn Jahren erfolgreich und haben den Finanzierungsmarkt revolutioniert. Mit unseren Transaktionsvolumen von über 4 Mrd. Euro im Monat und einem Wachstum, das deutlich über dem Markt liegt, schreiben wir gerne mit dir unsere Erfolgsstory fort.
 
+**FinTech:**  
+Wir sind Deutschlands größter Finanzmarktplatz für Immobilienfinanzierungen, Bausparprodukte und Privatkredite. Wir gestalten und bewegen Märkte und befinden uns auf einer stetigen Mission für den Verbraucher.
+
+**B2B2C:**  
+Wir sind B2B und denken B2C. Wir bringen Banken und Vertriebe zusammen, um für den Verbraucher den einfachsten Zugang zu den besten Finanzierungen zu schaffen.
+
+
+## Und jetzt?
+Wenn wir dein Interesse geweckt haben, dann freuen wir uns auf deine aussagekräftige Bewerbung. Bitte mit Gehaltsvorstellung und möglichem Starttermin.  
