@@ -58,7 +58,6 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 **Cross-Funktionale Teamarbeit:** 
 - Engineers, Domain Experts und Data Scientists erarbeiten gemeinsam Lösungen  
 
-**Flexibilität:** 
 **Flexibilität und Familienfreundlichkeit:**
 - Arbeitszeit, Ort und Urlaub sind im Team flexibel  
 - ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen
@@ -79,9 +78,6 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 
 **Respekt:** 
 - gegenseitiger Respekt und Wertschätzung sowie ein hohes Maß an sozialer Kompetenz  
-
-**Familienfreundlichkeit:** 
-- ist die Betreuung deines Kindes nicht möglich, kannst du neben Home Office gerne auch unser Kids-Office nutzen  
 
 **Tech-Stack:** 
 - wir sind flexibel in der Auswahl unserer Tools und Techniken
