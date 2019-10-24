@@ -1,4 +1,4 @@
-# Data Engineer (w/m/d) beim FinTech EUROPACE
+# Senior/Junior-Data Engineer (w/m/d) beim FinTech EUROPACE
 
 **Unternehmen:** EUROPACE **Standort:** Berlin
 
@@ -43,14 +43,20 @@ Außerdem interessiert dich der Finanz- und Immobilenmarkt?
 - dein Interesse hilft dir mit deiner schnellen Auffassungsgabe, rasch neue Themen zu adaptieren 
 - du engagierst du dich, bringst dich ein und bist motiviert, uns voranzubringen
 
-**2-Jahre+ Praxis-Erfahrung mit:**  
-- Python und/oder Java
-- SQL- und NoSql-Datenbanken
-- gängigen Entwicklungsumgebungen
-- Programmierstandards (Testing, Formatting, Github Workflows)
+**Praxis-Erfahrung mit:**  
+- Python (2-Jahre+)
+- Java (wünschenswert)
+- SQL (2-Jahre+)
+- NoSql-Datenbanken (wünschenswert)
+- gängigen Entwicklungsumgebungen (wünschenswert)
+- Programmierstandards (Testing, Formatting, Github Workflows sind dir wichtig)
 
 
 ## Was dich bei uns erwartet  
+
+**Data-Community:**
+- Brown Bag Lunches, Hackathons, Beer/Whisky Friday, After Work und Team Events  
+- Journal Clubs
 
 **Freiraum:** 
 - Raum zum Gestalten und Wirken, technisch, fachlich oder auch organisatorisch  
